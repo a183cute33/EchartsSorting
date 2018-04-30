@@ -1,7 +1,7 @@
 # EchartsSorting
 Sorting Echarts with ascending or descending.
 
-![EchartsSorting Demo](https://github.com/a183cute33/EchartsSorting/blob/master/demo.gif)
+![Echarts Sorting Demo](https://github.com/a183cute33/EchartsSorting/blob/master/demo.gif)
 
 ## Echarts排序
 * 包含 升冪,降冪,原序列
